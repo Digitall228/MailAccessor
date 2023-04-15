@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailAccessor", "MailAccessor\MailAccessor.csproj", "{AC67B7ED-1FF4-4D24-91F6-9C65972F8BA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailAccessorTests", "MailAccessorTests\MailAccessorTests.csproj", "{0C2941E4-3F7C-4FAF-92A9-8117B5F0111D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC67B7ED-1FF4-4D24-91F6-9C65972F8BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC67B7ED-1FF4-4D24-91F6-9C65972F8BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC67B7ED-1FF4-4D24-91F6-9C65972F8BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC67B7ED-1FF4-4D24-91F6-9C65972F8BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C2941E4-3F7C-4FAF-92A9-8117B5F0111D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2941E4-3F7C-4FAF-92A9-8117B5F0111D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2941E4-3F7C-4FAF-92A9-8117B5F0111D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2941E4-3F7C-4FAF-92A9-8117B5F0111D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C93F610E-6A45-4FB2-93D1-10AEF45ECDEE}
+	EndGlobalSection
+EndGlobal
